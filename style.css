@@ -1,5 +1,5 @@
 body{
-    background-image: url('.banner.jpg');
+    background-image: url('/banner.jpg');
     padding: 5px;
     color: black;
 }
