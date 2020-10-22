@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
     background-image: url("banner.jpg");
+=======
+    background-image: url('/banner.jpg');
+>>>>>>> 3a517e4f768c570d47bedb1bdc1e7eeb496195cf
     padding: 5px;
     color: black;
 }
