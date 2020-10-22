@@ -19,6 +19,10 @@ body{
     flex-direction: row;
 /*     background-image: url("blackjack.jpg"); */
 }
+
+.flexbox-row-2{
+    background-color:rgb(134,134,134) ;
+}
 .flexbox-row-2,.flexbox-row-3,.flexbox-row-4{
     border: 1px solid black;    
     justify-content: space-around;
@@ -28,9 +32,6 @@ body{
     display: flex;
     
 
-}
-.flexbox-row-2{
-    background-color:rgb(134,134,134) ;
 }
 .flexbox-row-2 div{
     border: 1px solid black;
