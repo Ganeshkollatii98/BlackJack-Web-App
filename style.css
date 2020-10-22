@@ -4,6 +4,7 @@ body{
     font-family:"Google Sans", Roboto, Arial, sans-serif;
     background-size:cover;
     color: #e8eaed;
+    font-weight:Bold;
 }
 .container{
     width: 80%;
