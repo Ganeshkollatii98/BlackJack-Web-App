@@ -1,11 +1,11 @@
 body{
-<<<<<<< HEAD
-    background-image: url("banner.jpg");
-=======
-    background-image: url('/banner.jpg');
->>>>>>> 3a517e4f768c570d47bedb1bdc1e7eeb496195cf
     padding: 5px;
-    color: black;
+    font-family:"Google Sans", Roboto, Arial, sans-serif;
+    background-size:cover;
+    color: #e8eaed;
+    font-weight:Bold;
+    background-image: url("https://images.unsplash.com/photo-1510936111840-65e151ad71bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1067&q=80");
+    
 }
 .container{
     width: 80%;
@@ -18,7 +18,7 @@ body{
     justify-content: space-around;
     flex-wrap: wrap;
     flex-direction: row;
-    background-image: url("blackjack.jpg");
+/*     background-image: url("blackjack.jpg"); */
 }
 .flexbox-row-2,.flexbox-row-3,.flexbox-row-4{
     border: 1px solid black;    
@@ -27,11 +27,11 @@ body{
     padding: 10px;
     flex-direction: row;
     display: flex;
-    background-image: url("blackjack.jpg");
+    
 
 }
 .flexbox-row-2{
-    background-image: url(blackjack.jpg);
+    background-color:004a24 ;
 }
 .flexbox-row-2 div{
     border: 1px solid black;
