@@ -1,7 +1,9 @@
 body{
-    background-image: url("banner.jpg");
+    background-image: url("https://images.unsplash.com/photo-1474540412665-1cdae210ae6b?ixlib=rb-1.2.1&auto=format&fit=crop&w=762&q=80");
     padding: 5px;
-    color: black;
+    font-family:"Google Sans", Roboto, Arial, sans-serif;
+    background-size:cover;
+    color: #e8eaed;
 }
 .container{
     width: 80%;
@@ -14,7 +16,7 @@ body{
     justify-content: space-around;
     flex-wrap: wrap;
     flex-direction: row;
-    background-image: url("blackjack.jpg");
+/*     background-image: url("blackjack.jpg"); */
 }
 .flexbox-row-2,.flexbox-row-3,.flexbox-row-4{
     border: 1px solid black;    
@@ -27,7 +29,7 @@ body{
 
 }
 .flexbox-row-2{
-    background-image: url(blackjack.jpg);
+    background-color:004a24 ;
 }
 .flexbox-row-2 div{
     border: 1px solid black;
