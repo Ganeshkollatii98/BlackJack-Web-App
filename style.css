@@ -1,10 +1,11 @@
 body{
-    background-image: url("https://images.unsplash.com/photo-1510936111840-65e151ad71bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1067&q=80");
     padding: 5px;
     font-family:"Google Sans", Roboto, Arial, sans-serif;
     background-size:cover;
     color: #e8eaed;
     font-weight:Bold;
+    background-image: url("https://images.unsplash.com/photo-1510936111840-65e151ad71bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1067&q=80");
+    
 }
 .container{
     width: 80%;
