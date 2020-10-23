@@ -15,3 +15,5 @@ Your hand value exceeds 21.
 The dealers hand has a greater value than yours at the end of the round
  
 It’s also important to note, the other players’ hands at the table have nothing to do with winning the game of Blackjack like they do in Poker games. 
+
+# you can visit by this link https://ganeshkollatii98.github.io/BlackJack-Web-App/
